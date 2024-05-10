@@ -1,0 +1,5 @@
+Student{id='202401', name='jason', intake=526757, grade='01'}
+Student{id='202402', name='ken', intake=587572, grade='02'}
+Student{id='202403', name='Watson', intake=827552, grade='03'}
+Student{id='202404', name='Octane', intake=853084, grade='04'}
+Student{id='202405', name='horizon', intake=946629, grade='05'}
